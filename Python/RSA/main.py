@@ -40,4 +40,4 @@ def descriptografar(codes):
     return ''.join(msg_decodificad)
 
 def math_method():
-    num = 0
+    num = 1
